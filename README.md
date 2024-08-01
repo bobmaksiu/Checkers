@@ -2,7 +2,7 @@
 
 ## Description
 
-Checkers Game is a desktop application designed for playing checkers between two players. The game uses Java Swing for the graphical user interface and Java Sockets for communication between the host and the joining player. The application implements full game logic, allowing players to make moves and interact with the game board.
+Checkers Game is an academic project designed for playing checkers between two players. The game uses Java Swing for the graphical user interface and Java Sockets for communication between the host and the joining player. The application implements full game logic, allowing players to make moves and interact with the game board.
 
 ## Features
 
